@@ -37,5 +37,5 @@ The project explores the adaptability and scalability of RAG systems using a ver
 - **TriviaQA** (open-domain question answering)
 - **PubHealth** (domain-specific health information retrieval)
 - **ARC-C** (AI2 Reasoning)
-- - **MuSiQue** (multi-hop reasoning dataset)
+- **MuSiQue** (multi-hop reasoning dataset)
  
